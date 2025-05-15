@@ -1,8 +1,5 @@
 // Declaring the array
-let myArray = ['sunday','monday','tuesday','wednesday',null,'friday','saturday'];
-
-console.log(myArray[2]);
-console.log(myArray[4]);
+let myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 
 // 1. print the 3rd item here
 
