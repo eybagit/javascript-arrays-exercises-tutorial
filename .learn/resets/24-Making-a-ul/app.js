@@ -9,11 +9,11 @@ let allColors = [
 ];
 
 function generateLI(color) {
-	return `<li>${color.label}</li>`;
+	// Your code here
 }
 
 function filterColors(color) {
-	 return color.sexy === true;
+	// Your code here
 }
 
 function generateHTMLFromArray(array) {

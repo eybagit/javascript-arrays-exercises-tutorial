@@ -3,12 +3,6 @@ let chunkTwo = [ 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas' ];
 
 const mergeArrays = (firstArray, secondArray) => {
     let newArray = []
-        firstArray.forEach(element => {
-            newArray.push(element);
-        });
-        secondArray.forEach(element => {
-            newArray.push(element);
-        });
     // Your code here
     return newArray
 }
